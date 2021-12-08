@@ -1,7 +1,7 @@
 # T19 Project Repo
 Code examples for utilization in CDC's T19 project
 
-#Installation instructions:
+# Installation instructions:
 I'm using anaconda and would recommend it to anyone working on python on Windows OS:
 https://www.anaconda.com/products/individual
 
